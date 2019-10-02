@@ -1,0 +1,4 @@
+amazon:
+  us:
+    autocomplete:
+      api: https://completion.amazon.com/search/complete?search-alias=aps&client=amazon-search-ui&mkt=1&q=
